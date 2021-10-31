@@ -1,2 +1,3 @@
-# Front-End-BootCamp
-Front-End-BootCamp
+# Front-End-Boot Camp
+
+- CSS Cheat Sheet
